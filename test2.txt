@@ -1,2 +1,10 @@
 basic of git operations.
-Insert -> Add -> Commit -> Push
+Any Modification -> Add -> Commit -> Push
+
+cmd for mod from system to git repo:
+     git add "filename"
+     git commit -m "commit msg"
+     git push origin main
+
+to observe changes made in git to reflect in system/VS:
+use:             'git pull'
