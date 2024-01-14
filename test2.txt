@@ -1,1 +1,2 @@
 basic of git operations.
+Insert -> Add -> Commit -> Push
